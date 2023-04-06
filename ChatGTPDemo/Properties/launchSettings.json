@@ -3,7 +3,7 @@
     "ChatGTPDemo": {
       "commandName": "Project",
       "environmentVariables": {
-        "OpenAIAPIKey": "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"
+        "OpenAIAPIKey": "Your OpenAPI key"
       }
     }
   }
