@@ -13,9 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="openai_logo.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="openai_logo.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
